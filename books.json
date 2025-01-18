@@ -1,0 +1,45 @@
+{
+  "reading": [
+    {
+      "title": "The Book of Accidents",
+      "author": "Chuck Wendig",
+      "started": "2025-01-14"
+    },
+    {
+      "title": "Brevity",
+      "author": "David Galef",
+      "started": "2025-01-13"
+    }
+  ],
+  "completed": [
+    {
+      "title": "Dark Matter",
+      "author": "Blake Crouch",
+      "completed": "2025-01-12",
+      "rating": 7.5
+    },
+    {
+      "title": "A (Very) Short History of Life on Earth",
+      "author": "Henry Gee",
+      "completed": "2025-01-07",
+      "rating": 6.5
+    }
+  ],
+  "dnf": [
+    {
+      "title": "Outline",
+      "author": "Rachel Cusk",
+      "percent": "50"
+    },
+    {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "percent": "5"
+    },
+    {
+      "title": "The Ferryman",
+      "author": "Justin Cronin",
+      "percent": "1"
+    }
+  ]
+}
