@@ -1,17 +1,18 @@
 {
   "reading": [
     {
-      "title": "The Book of Accidents",
-      "author": "Chuck Wendig",
-      "started": "2025-01-14"
-    },
-    {
       "title": "Brevity",
       "author": "David Galef",
       "started": "2025-01-13"
     }
   ],
   "completed": [
+    {
+      "title": "The Book of Accidents",
+      "author": "Chuck Wendig",
+      "completed": "2025-01-19",
+      "rating": 8.5
+    },
     {
       "title": "Dark Matter",
       "author": "Blake Crouch",
