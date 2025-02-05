@@ -1,17 +1,23 @@
 {
   "reading": [
     {
-      "title": "The Gone World",
-      "author": "Tom Sweterlitsch",
-      "started": "2025-02-01"
+      "title": "Homesick for Another World",
+      "author": "Ottessa Moshfegh",
+      "started": "2025-02-05"
     },
     {
-      "title": "The shallows: what the Internet is doing to our brains",
+      "title": "The Shallows: What the Internet Is Doing to Our Brains",
       "author": "Nicholas Carr",
       "started": "2025-01-24"
     }
   ],
   "completed": [
+    {
+      "title": "The Gone World",
+      "author": "Tom Sweterlitsch",
+      "completed": "2025-02-05",
+      "rating": 9.0
+    },
     {
       "title": "The Book of Accidents",
       "author": "Chuck Wendig",
