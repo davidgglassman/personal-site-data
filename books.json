@@ -1,11 +1,6 @@
 {
   "reading": [
     {
-      "title": "Homesick for Another World",
-      "author": "Ottessa Moshfegh",
-      "started": "2025-02-05"
-    },
-    {
       "title": "The Shallows: What the Internet Is Doing to Our Brains",
       "author": "Nicholas Carr",
       "started": "2025-01-24"
@@ -13,16 +8,22 @@
   ],
   "completed": [
     {
+      "title": "Homesick for Another World",
+      "author": "Ottessa Moshfegh",
+      "completed": "2025-02-10",
+      "rating": 8.5
+    },
+    {
       "title": "The Gone World",
       "author": "Tom Sweterlitsch",
       "completed": "2025-02-05",
-      "rating": 9.0
+      "rating": 8.5
     },
     {
       "title": "The Book of Accidents",
       "author": "Chuck Wendig",
       "completed": "2025-01-19",
-      "rating": 8.5
+      "rating": 8.0
     },
     {
       "title": "Dark Matter",
